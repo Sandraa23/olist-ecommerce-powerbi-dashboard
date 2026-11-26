@@ -15,10 +15,10 @@ The report consists of three interconnected dashboard pages, each focusing on a 
 ![Sales Overview](Screenshots/Sales_overview.jpeg)
 
 ### 2. Products & Customers
-![Products and Customers](Screenshots/products & customers.jpeg)
+![Products and Customers](Screenshots/Products&Customers.jpeg)
 
 ### 3. Delivery & Satisfaction
-![Delivery and Satisfaction](Screenshots/delivery&satisfaction.jpeg)
+![Delivery and Satisfaction](Screenshots/Delivery&Satisfaction.jpeg)
 
 
 ## Tools & Technologies
