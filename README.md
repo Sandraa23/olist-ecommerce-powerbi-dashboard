@@ -9,6 +9,18 @@ This project explores the Brazilian e-commerce marketplace using historical orde
 
 The report consists of three interconnected dashboard pages, each focusing on a different aspect of business performance.
 
+## Dashboard Preview
+
+### 1. Sales Overview
+![Sales Overview](Screenshots/sales_overview.png)
+
+### 2. Products & Customers
+![Products and Customers](Screenshots/products&customers.png)
+
+### 3. Delivery & Satisfaction
+![Delivery and Satisfaction](Screenshots/delivery&satisfaction.png)
+
+
 ## Tools & Technologies
 
 - **Power BI Desktop** – Dashboard development and data visualisation
