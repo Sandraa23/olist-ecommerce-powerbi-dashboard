@@ -12,10 +12,10 @@ The report consists of three interconnected dashboard pages, each focusing on a 
 ## Dashboard Preview
 
 ### 1. Sales Overview
-![Sales Overview](Screenshots/sales_overview.jpeg)
+![Sales Overview](Screenshots/Sales_overview.jpeg)
 
 ### 2. Products & Customers
-![Products and Customers](Screenshots/products&customers.jpeg)
+![Products and Customers](Screenshots/products & customers.jpeg)
 
 ### 3. Delivery & Satisfaction
 ![Delivery and Satisfaction](Screenshots/delivery&satisfaction.jpeg)
